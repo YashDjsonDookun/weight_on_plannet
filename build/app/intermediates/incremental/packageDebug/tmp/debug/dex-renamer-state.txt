@@ -1,0 +1,4 @@
+#Mon Dec 09 21:37:24 MUT 2019
+base.0=U\:\\Documents\\Flutter-Dev\\Flutter_Lessions\\weight_on_plannet\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
